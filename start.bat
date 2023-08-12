@@ -1,0 +1,2 @@
+python status.py
+pause
